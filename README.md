@@ -4,6 +4,7 @@
 🗺 HUAWEI Map Kit uses the WGS 84 GPS coordinate system, which meets most map development requirements outside China. <br>
 
 📌 How to use Huawei Map Kit? <br>
+
 👉 First, you need to register a Huawei Developer account. You can register it for free from the link below. 👇 <br>
 https://id5.cloud.huawei.com/CAS/portal/userRegister/regbyemail.html <br>
 👉 After opening the developer account, we will create a project <br>
