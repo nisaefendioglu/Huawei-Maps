@@ -1,0 +1,14 @@
+{
+	"client":{
+		"appType":"1",
+		"cp_id":"5190090000028078568",
+		"product_id":"736430079244703760",
+		"client_id":"496971853286343744",
+		"client_secret":"330EDA7D738B3F8886F0B693A48CBCBC524B0BA69B8D7CC3EF6C8B621E27F43D",
+		"project_id":"736430079244703760",
+		"app_id":"103280307",
+		"api_key":"CgB6e3x9BFxwylCTq+W9lmsmjYHgFSb20i//wjubvhUTwI8waYVog5CrgDzMikdEN0zcQ4lqDsJbjh2l+ZYw7Sb0",
+		"package_name":"com.huawei.android.mapkitdemo"
+	},
+	"configuration_version":"1.0"
+}
