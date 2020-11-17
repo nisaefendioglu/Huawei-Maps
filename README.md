@@ -2,7 +2,7 @@
 📌 What is Huawei Map Kit? <br>
 :red_circle: Map Kit is an SDK for map development. It covers map data of more than 200 countries and regions, and supports hundreds of languages. With this SDK, you can easily integrate map-based functions into your apps. 
 
-🗺 HUAWEI Map Kit uses the WGS 84 GPS coordinate system, which meets most map development requirements outside China <br>
+🗺 HUAWEI Map Kit uses the WGS 84 GPS coordinate system, which meets most map development requirements outside China. <br>
 
 📌 How to use Huawei Map Kit? <br>
 👉 First, you need to register a Huawei Developer account. You can register it for free from the link below. 👇 <br>
