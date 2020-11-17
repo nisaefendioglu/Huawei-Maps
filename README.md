@@ -8,7 +8,7 @@ Map interaction: Controls the interaction gestures and buttons on the map.
 Map drawing: Adds location markers, map layers, overlays, and various shapes. <br>
 
 📌 How to use Huawei Map Kit? <br>
-👉 First, you need to register a Huawei Developer account. You can register it for free from the link below.👇🏻<br>
+👉 First, you need to register a Huawei Developer account. You can register it for free from the link below. 👇 <br>
 https://id5.cloud.huawei.com/CAS/portal/userRegister/regbyemail.html <br>
 👉 After opening the developer account, we will create a project <br>
 👉 And open an application in the project. <br>
